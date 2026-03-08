@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0f0f0f;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  padding: 20px 40px;
+  border-bottom: 1px solid #222;
+}
+
+.logo {
+  text-transform: uppercase;
+  font-size: 22px;
+  color: #8db95a;
+  font-weight: bold;
+}
+
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+}
+
+h1 {
+  font-size: 52px;
+  margin-bottom: 16px;
+}
+
+p {
+  color: #aaaaaa;
+  font-size: 18px;
+  margin-bottom: 32px;
+}
+
+button {
+  background-color: #16d14e;
+  color: #181212;
+  border: none;
+  padding: 14px 32px;
+  font-size: px;
+  border-radius: 10px;
+  cursor: pointer;
+}
