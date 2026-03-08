@@ -46,4 +46,10 @@ button {
   font-size: 16px;
   border-radius: 10px;
   cursor: pointer;
+  transition: all 0.4s ease;
+}
+
+button:hover {
+  opacity: 0.85;
+  transform: scale(1.05);
 }
