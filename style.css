@@ -53,3 +53,8 @@ button:hover {
   opacity: 0.85;
   transform: scale(1.05);
 }
+
+.join-message {
+  height: 24px;
+  overflow: hidden;
+}
