@@ -3,10 +3,10 @@ const hero = document.querySelector('.hero')
 let hasJoined = false
 
 button.addEventListener('click', function() {
-    if (udahjoin) return
+    if (hasJoined) return
     alert('You have joined the journey!')
 
-  udahjoin = true
+  hasJoined = true
   button.textContent = 'Joined!'
   button.style.backgroundColor = '#00c896'
 

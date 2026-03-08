@@ -32,7 +32,7 @@ h1 {
   margin-bottom: 16px;
 }
 
-p {
+.hero p {
   color: #aaaaaa;
   font-size: 18px;
   margin-bottom: 32px;
@@ -43,7 +43,7 @@ button {
   color: #181212;
   border: none;
   padding: 14px 32px;
-  font-size: px;
+  font-size: 16px;
   border-radius: 10px;
   cursor: pointer;
 }
